@@ -1,5 +1,5 @@
 # YelpCamp
-A RESTful website of exploring different campgrounds around the world.
+A RESTful website for exploring different campgrounds around the world.
 
 ## Features
 1. Authentication using passport.
